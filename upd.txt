@@ -1,0 +1,3 @@
+update=0.95.2.9=25=0
+ru=info=Глобальное обновление с новой локацией запланировано на 0.95.3.0, и работа над ним начнётся уже совсем скоро.
+en=info=A global update which will bring a new location is planned for 0.95.3.0. Work on it will begin very soon.
