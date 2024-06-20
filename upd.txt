@@ -1,4 +1,4 @@
-update=0.95.3.0=54=0=true
+update=0.95.3.0=55=0=true
 ru=info=Глобальное обновление 0.95.3.0, которое добавит новую локацию, уже в разработке!=0.95.3.0
 en=info=Global update 0.95.3.0 which will bring a new location is already in development!=0.95.3.0
 v=50065=50070=-1
