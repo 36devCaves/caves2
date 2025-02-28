@@ -858,6 +858,7 @@ yahoo.com,59318,RESELLER,e1a5b5b6e3255540
 yandex.com,302446435,direct
 yandex.com,94923424,RESELLER
 yandex.com,97539269,RESELLER
+yandex.com,302446435,reseller
 yeahmobi.com,5135082,RESELLER
 yeahmobi.com,5135195,RESELLER
 yeahmobi.com,5135347,RESELLER
