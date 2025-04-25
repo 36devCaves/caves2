@@ -1,4 +1,4 @@
-update=0.95.3.4=100=0=true
-ru=info=Обновление 0.95.3.4 уже доступно!=0.95.3.4
-en=info=Update 0.95.3.4 is already available!=0.95.3.4
+update=0.95.3.5=70=0=true
+ru=info=Обновление 0.95.3.5 в разработке!=0.95.3.5
+en=info=Update 0.95.3.5 is in development!=0.95.3.5
 v=51535=51540=-1
