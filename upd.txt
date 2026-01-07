@@ -1,4 +1,4 @@
-update=0.95.3.8=3=0=true
+update=0.95.3.8=5=0=true
 ru=info=Обновление 0.95.3.8 в разработке!=0.95.3.8
 en=info=Update 0.95.3.8 is in development!=0.95.3.8
 v=51935=51940=0=0
