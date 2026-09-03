@@ -1,4 +1,4 @@
 update=0.95.3.9=64=0=true
 ru=info=Большое обновление 0.95.3.9 в разработке!=0.95.3.9
-en=info=Big update 0.95.3.9 is in development!=0.95.3.9
+en=info=Big update 0.95.3.9 is in development!=Big update
 v=52395=52390=0=0
